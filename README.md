@@ -4,7 +4,7 @@ Instructions:
 
 Fork this repo
 
-Clone this repo to your machine
+Clone this forked repo to your machine
 
 Make a feature branch on your machine
 
